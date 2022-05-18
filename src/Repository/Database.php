@@ -16,7 +16,7 @@ abstract class DataBase {
     private const DB_PASS = '';
 
     // Nom de la base de données
-    private const DB_NAME = 'poo';
+    private const DB_NAME = 'cafes';
 
     /**
      * Singleton
